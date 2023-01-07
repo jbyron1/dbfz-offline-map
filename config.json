@@ -8,7 +8,7 @@
     "text": "@JD__FGC"
   },
   "text": {
-    "more": "This graph is a algorithm generated graph of Street Fighter V tournaments on start.gg\n. Each dot is a tournament, each line represents players that played in both tournament, the colors represent a community assigned by modularity. The placement is determined by a force directed placement algorithm",
+    "more": "This graph is a algorithm generated graph of Melty Blood Type Lumina tournaments on start.gg\n. Each dot is a tournament, each line represents players that played in both tournament, the colors represent a community assigned by modularity. The placement is determined by a force directed placement algorithm",
     "intro": "Graph of offline Melty Blood Type Lumina tournaments played on start.gg this year",
     "title": "Offline Melty Blood Type Lumina 2022"
   },
